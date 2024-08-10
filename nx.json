@@ -7,5 +7,15 @@
     "tslint.json": "*",
     "nx.json": "*"
   },
-  "projects": {}
+  "projects": {
+    "team-name-firstapp": {
+      "tags": []
+    },
+    "team-name-firstapp-e2e": {
+      "tags": []
+    },
+    "backend": {
+      "tags": []
+    }
+  }
 }
